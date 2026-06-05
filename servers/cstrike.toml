@@ -1,0 +1,130 @@
+# Auto-populated on 2026-06-05 from old UDP master snapshots
+
+[[server]]
+address  = "106.13.232.83:27015"
+protocol = 49
+host     = "[XXH] Zombie Crisis"
+
+[[server]]
+address  = "106.13.232.83:27016"
+protocol = 49
+host     = "[XXH] CSDM:FFA Qqun:434673380"
+
+[[server]]
+address  = "119.29.13.60:27015"
+protocol = 49
+host     = "[Sanf] Zombie Shelter (Days:1)"
+
+[[server]]
+address  = "119.45.252.164:27015"
+protocol = 49
+host     = "[CN-G8] OLD PUBLIC Q：745991186"
+
+[[server]]
+address  = "119.91.201.9:27015"
+protocol = 49
+host     = "--[R]--[Zombie 5.0]--(CF Hero) Level EXP--616117100"
+
+[[server]]
+address  = "167.235.7.101:27015"
+protocol = 49
+host     = "[FFA] Empty Protocol [CSDM]"
+
+[[server]]
+address  = "175.178.163.250:27020"
+protocol = 49
+host     = "CN.YsYTo 8v8 Qqun:370031524"
+
+[[server]]
+address  = "175.178.163.250:27021"
+protocol = 49
+host     = "CN.YsYTo AWP Qqun:370031524"
+
+[[server]]
+address  = "185.189.167.10:27015"
+protocol = 49
+host     = "r2d2 [yapb/arm64]"
+
+[[server]]
+address  = "188.212.103.154:27015"
+protocol = 49
+host     = "* BIO.DINSCURT.COM | Zombie-Strike"
+
+[[server]]
+address  = "193.111.77.184:27031"
+protocol = 49
+host     = "[TR] Temel v2"
+
+[[server]]
+address  = "217.154.211.69:27025"
+protocol = 49
+host     = "[CSVR] Classic CS 1.6 VR Server"
+
+[[server]]
+address  = "51.91.249.12:27015"
+protocol = 49
+host     = "[Lemita]:: CSDM (t.me/lemita_project)"
+
+[[server]]
+address  = "51.91.249.12:27016"
+protocol = 49
+host     = "[Lemita]:: TeamPlay"
+
+[[server]]
+address  = "72.60.130.39:27015"
+protocol = 49
+host     = "[IceEyes] CLASSIC PUBLIC (rank / vip system)"
+
+[[server]]
+address  = "82.77.209.165:27015"
+protocol = 49
+host     = "# LastCS.RO GunGame~AntiCheat~2xJump~SpawnProtect~1000FPS"
+
+[[server]]
+address  = "82.77.209.92:27015"
+protocol = 49
+host     = "# LastCS.RO Respawn~AntiCheat~2xJump~SpawnProtect~1000FPS"
+
+[[server]]
+address  = "82.77.209.95:27015"
+protocol = 49
+host     = "# LastCS.RO Zombie Swarm Defense~Knockback~Leap~1000FPS"
+
+[[server]]
+address  = "82.77.209.96:27015"
+protocol = 49
+host     = "# Cs.Lastcs.Ro#ClassicOldSchool~AntiCheat~WarmUp~SpawnProtect~1000FPS"
+
+[[server]]
+address  = "89.207.221.227:27015"
+protocol = 49
+host     = "[CSVR] Noname Server"
+
+[[server]]
+address  = "47.96.116.126:27015"
+protocol = 49
+host     = "^3GM ^1Zombie ^2Meat ^55.0 ^6| Free Hook,VIP Qqun:622456398"
+
+
+
+# Added on 2026-06-06 from a follow-up master dump
+
+[[server]]
+address  = "113.30.190.137:27015"
+protocol = 49
+host     = "[TR] CSDM Deathmatch | t.me/nash3dxash"
+
+[[server]]
+address  = "113.30.190.137:27031"
+protocol = 49
+host     = "[TR] CSDM Deathmatch | t.me/nash3dxash"
+
+[[server]]
+address  = "186.19.63.56:27015"
+protocol = 49
+host     = "[ARG] Counter-Strike 1.6 Server +Bots"
+
+[[server]]
+address  = "5.196.165.2:27015"
+protocol = 49
+host     = "OLD SCHOOL CS"

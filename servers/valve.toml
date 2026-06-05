@@ -1,0 +1,48 @@
+# Auto-populated on 2026-06-05 from old UDP master snapshots
+
+[[server]]
+address  = "193.111.77.184:27011"
+protocol = 49
+host     = "[AntiCheat]DeathMatch"
+
+[[server]]
+address  = "51.91.249.12:27017"
+protocol = 49
+host     = "[Lemita]:: HLDM (t.me/lemita_project)"
+
+[[server]]
+address  = "77.239.121.202:27015"
+protocol = 49
+host     = "[Half-Life Collective] Updated DM"
+
+[[server]]
+address  = "94.138.138.9:27015"
+protocol = 49
+host     = "LSHLDS Stalkyard"
+
+[[server]]
+address  = "94.138.138.9:27016"
+protocol = 49
+host     = "LSHLDS Crossfire"
+
+[[server]]
+address  = "94.138.138.9:27017"
+protocol = 49
+host     = "LSHLDS Bounce"
+
+[[server]]
+address  = "95.67.186.255:27015"
+protocol = 49
+host     = "Half-Life"
+
+# Added on 2026-06-06 from a follow-up master dump
+
+[[server]]
+address  = "45.154.199.157:27015"
+protocol = 49
+host     = "[Eclipse] LemonParty"
+
+[[server]]
+address  = "45.154.199.157:27016"
+protocol = 49
+host     = "[Eclipse] 357 Madness"
